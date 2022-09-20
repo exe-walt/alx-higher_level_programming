@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-
 """Task 8"""
+
 
 #!/usr/bin/python3
 def uppercase(str):
