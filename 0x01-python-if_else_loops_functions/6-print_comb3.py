@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-"""Task 6 - A program that prints all possible different combinations of two digits."""
+"""Task 6 - A program that prints all possible 
+          different combinations of two digits."""
 
 for num1 in range(0, 10):
     for num2 in range(num1 + 1, 10):
