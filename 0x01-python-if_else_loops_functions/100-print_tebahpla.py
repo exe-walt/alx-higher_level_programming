@@ -2,6 +2,7 @@
 """Advanced"""
 
 
+
 for c_num in range(122, 96, -1):
     if c_num % 2 == 1:
         c_num = c_num - 32
