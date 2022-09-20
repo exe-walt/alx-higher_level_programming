@@ -2,6 +2,8 @@
 import random
 number = random.randint(-10000, 10000)
 
+"""Task 1"""
+
 if number < 0:
     remainder = number % -10
 else:
