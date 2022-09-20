@@ -1,10 +1,11 @@
 #!/usr/bin/python3
 
-"""Task 8 - a function that prints a string in uppercase followed by a new line."""
+"""Task 8"""
 
+#!/usr/bin/python3
 def uppercase(str):
-    for char in str:
-        if ord(char) >= 97 and ord(char) <= 122:
-            char = chr(ord(char) - 32)
-        print("{}".format(chr(ord(char))), end="")
-    print()
+    for c in str:
+        if ord('a') <= ord(c) <= ord('z'):
+            c = chr(ord(c) - (ord('a') - ord('A')))
+        print("{:s}".format(c), end='')
+    print("")
