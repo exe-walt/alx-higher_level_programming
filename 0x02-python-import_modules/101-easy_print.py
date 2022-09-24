@@ -2,4 +2,4 @@
 """Task 7. Easy print"""
 
 
-__import__("note")
+__import__("easyp")
