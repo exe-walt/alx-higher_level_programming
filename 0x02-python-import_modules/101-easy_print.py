@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-"""Task 7. Easy print"""
-__import__("easy_print")
+"""Task 7. Easy Print"""
+import easy_print
