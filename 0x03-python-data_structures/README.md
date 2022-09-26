@@ -1,5 +1,5 @@
 # 0x03. Python - Data Structures: Lists, Tuples
-|-----------------------------------------------------------------------|
+
 |At the end of the project I should know:                               |
 |-----------------------------------------------------------------------|
 | `Why Python programming is awesome;`                                  |
