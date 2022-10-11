@@ -1,12 +1,11 @@
 #!/usr/bin/python3
-"""Create a Class Square with size"""
+"""Creating a a Class Square based on previous task"""
 
 
 class Square:
     """Class - Square"""
 
     def __init__(self, size=0):
-        """Constructor of a Square with the size"""
         if (type(size) is not int):
             raise (TypeError("size must be an integer"))
         elif (size < 0):
